@@ -6,7 +6,7 @@ This project is a fully dynamic single-page website with an admin panel, featuri
 [Click here for website](http://taxi-service.kesug.com)
 
 
-[Click here for Admin Panel](http://taxi-service.kesug.com/backend)
+[Click here for Admin Panel](http://taxi-service.kesug.com/backend)   Scroll below for login credentials.
 
 ## Features
 
