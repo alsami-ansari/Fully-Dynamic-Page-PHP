@@ -57,22 +57,11 @@ _ **Secure Login System**: Password-protected admin area with session management
    - Choose the `nex_texi.sql` file
    - Click `Go`
 
-5. **Update Database Configuration**  
-   Open the project folder and locate the `config.php` file. Update the database credentials to match your local setup:
 
-   ```php
-   <?php
-   $host = 'localhost';
-   $db   = 'new_texi'; // Your database name
-   $user = 'root';       // Your database username
-   $pass = '';           // Leave empty if no password for XAMPP
-   ?>
-   ```
-
-6. **Start XAMPP**  
+5. **Start XAMPP**  
    Launch XAMPP Control Panel and start both **Apache** and **MySQL**.
 
-7. **Access the Website**  
+6. **Access the Website**  
    Open your web browser and go to:
 
    ```
@@ -81,7 +70,7 @@ _ **Secure Login System**: Password-protected admin area with session management
 
    You should now see the homepage of your single-page website.
 
-8. **Admin Panel**  
+7. **Admin Panel**  
    To access the admin panel, go to:
 
    ```
