@@ -3,6 +3,9 @@
 
 This project is a fully dynamic single-page website with an admin panel, featuring Create, Read, Update, and Delete (CRUD) functionalities. The website is built using the PHP (Linux, Apache, MySQL, PHP) and can be run locally using XAMPP.
 
+(Click here for website)[http://taxi-service.kesug.com]
+(Click here for Admin Panel)[http://taxi-service.kesug.com/backend]
+
 ## Features
 
 - **Admin Panel**: Secure access to the admin panel for managing website content.
