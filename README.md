@@ -36,7 +36,7 @@ _ **Secure Login System**: Password-protected admin area with session management
    Clone this repository or download the zip file from the repository.
 
    ```bash
-   git clone https://github.com/samiansari01/Fully-Dynamic-Page-PHP.git
+   git clone https://github.com/alsami-ansari/Fully-Dynamic-Page-PHP.git
    ```
 
 2. **Move Files to XAMPP**  
